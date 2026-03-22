@@ -1,0 +1,13 @@
+Input() - 
+	This function is used to get data from the user. It enables us to accept an input string withhout evaluating its value.
+	
+	Structure-
+		input("Anything : ")
+	
+	For a simple example that how we use it, refer python program "2.py".
+	
+	If we want to take the data as int or float we need to evaluate it before performing any action, otherwise the data will be treated as string. Like, in "3.png".
+	
+	To take the data as int we need to write input() in int(), like int(input()). Similarly, for float is float() and string is str().
+	
+	Ex - A simple integer addition calculator is made, refer "4.py".

@@ -1,0 +1,4 @@
+Eval() - 
+	This function is used to evaluate the value of a string. If argument is not a string, or if it cannot be evaluated as a number, then eval() results in an error.
+	
+	Ex - "2.py" tells how to use this function in a program and "3.png" tells which all arguments can be written in it.
