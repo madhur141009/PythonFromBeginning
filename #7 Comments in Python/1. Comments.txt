@@ -1,0 +1,8 @@
+Comments-
+	Comments are statements in a script that are ignored by the Python interpreter and therefore, have no impact on the actual output of the code. Comments make the code more readable and understandable for humans.
+	
+	Types - 
+		1. Single-Line Comments - used to comment single line. The comment starts with a "#"(hashtag) anywhere in the line and extends till the end of the line.
+		2. Multi-Line Comments - used to comment more than 1 line. The comment starts and ends with triple quotation marks (""" """, ''' ''' - any).
+		
+	Ex - refer python program.

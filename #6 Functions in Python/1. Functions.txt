@@ -1,0 +1,8 @@
+Functions() - 
+	A function is a group of statements that exists within the program for the purpose of performing a specific task. Instead of writing a lasrge program as one long sequence of instructions, it can be written as several small functions, each performing a specific task.
+	
+	Syntax-
+		def function_name(comma_separated_list_of_parameters){
+		    statement(s) #This is indent. In python, indent is of 4 spaces.
+		}
+	Ex - "2.png" tells how to define and call a function, whereas "3.py and 3-output.png" tells how to use a function.
