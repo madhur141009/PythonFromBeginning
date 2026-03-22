@@ -1,0 +1,4 @@
+Expressions in Python-
+	These are same as expressions in Maths, just the different is of terms.
+
+	Like, in 2+2, both the 2s are operands and + is operator.

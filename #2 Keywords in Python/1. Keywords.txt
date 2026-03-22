@@ -1,0 +1,3 @@
+Keywords-
+	They are different from Variable Names. Hence, they cannot be used as variable names. These words are reserved words used by Python interpreter.
+	For checking the list of all the reserved words/keywords refer the python program.

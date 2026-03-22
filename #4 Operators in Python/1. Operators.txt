@@ -1,0 +1,60 @@
+Operators - 
+	They are special symbols which represent computations. They are applied on operand(s).
+
+	They are categorised as :- 
+		1. Arithmetic / Mathematical Operators - 
+			"+" - Addition
+			"-" - Subtraction
+			"*" - Multiplication
+			"/" - Division
+			"%" - Remainder/Modulo
+			"**" - Exponentiation
+			"//" - Integer Division
+		
+			Ex - refer Python Terminal Screenshot
+	
+			Unary and Binary Operator - An operator can be termed as these depending upon the number of operands it takes.
+				Ex :- In expression -10+15-5*4, the first minus sign is a uniary minus and second minus sign is a binary minus.
+	
+			Sequence for Arithmetic Operators - 
+				"()" - Brackets
+				"**" - Exponentiation
+				"-" - Negation - It opposites the sign in a number, like -5 will be 5 and 5 will be -5
+				"/" - Division, "//" - Integer Division, "*" - Multiplication, "%" - Modulus
+				"+" - Addition, "-" - Subtraction
+
+		2. Relational Operators - 
+			"<" - Less Than
+			">" - Greater Than
+			"<=" - Less than equal to
+			">=" - Greater than equal to
+			"!=, < >" - not eaual to
+			"==" - equal to
+			
+			Ex - refer Python Terminal Screenshot
+
+		3. Logical Operators - 
+			or - If any of the operand is true, then the condition becomes true.
+			and - If both the operands is true, then the condition becomes true.
+			not - Reverses the state of operand/condition.
+			
+			Ex - refer Python Terminal Screenshot
+		
+			Sequence for Logical Operators - 
+				not
+				and
+				or
+
+		4. Shorthand / Augmented Assignments Operators - 
+			In this the assignment operator performs calculation and assign back the result to the left operand.
+			
+			It's types-
+				"+=" - Added and assign backs the value to left operand
+				"-=" - Subtracted and assign backs the value to left operand
+				"*=" - Multiplied and assign backs the value to left operand
+				"/=" - Divided and assign backs the value to left operand
+				"//=" - Performs floor division and assign backs the value to left operand
+				"%=" - Performs division and take the remainder and assign backs the value to left operand
+				"**=" - Performs exponential calculation and assign backs the value to left operand
+		
+			Ex - refer python program.

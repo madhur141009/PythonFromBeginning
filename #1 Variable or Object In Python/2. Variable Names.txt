@@ -1,0 +1,6 @@
+Points which should be taken care of while naming a variable are - 
+	1. Variable Name must start with an alphabet (Capital or small not matters) or an underscore (_) symbol.
+	2. Variable Name cannot contain space.
+	3. Variable Name can contain any number of letters, digits, and underscore (_). No other characters are 	allowed.
+	4. Python Keywords cannot be used as Variable Name.
+	5. Variable Names are case sensitive.

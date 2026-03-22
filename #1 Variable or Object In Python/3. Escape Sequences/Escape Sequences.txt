@@ -1,0 +1,17 @@
+Python allows Non-Graphic Characters. Those are the characters which cannot be directly types from the keyboard, like backspace, tab space, etc., so these are represented by Escape Sequences.
+
+Escape Sequence is represented by a backslash(\) followed by one or more characters.
+
+Major escape sequences in python are - 
+	1. \\ - Backslash
+	2. \' - Single Quote
+	3. \" - Double Quote
+	4. \a - ASCII Bell(BEL)
+	5. \b - ASCII Backspace(BS)
+	6. \f - ASCII Formfeed(FF)
+	7. \n - ASCII Linefeed(LS)
+	8. \r - ASCII Carriage Return(CR)
+	9. \t - ASCII Horizontal Tab(HT)
+	10. \v - ASCII Vertical Tab(VT)
+		
+	(ASCII - American Standard Code for Information Interchange)

@@ -1,0 +1,1 @@
+Multiple Assignments - Assigning same value to multiple variables at the same type, refer python program for the same.

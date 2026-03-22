@@ -1,0 +1,6 @@
+Something whose value is not fixed is a variable.
+
+They consist of three components - Identity, Type and Value.
+	1. Identity of a variable - Refer python program.
+	2. Types of a variable - Refer the data-types chart and the python program.
+	3. Value of a variable - The present value of a variable, can be 1, 2, 5.7, etc. Also, refer python program for printing its value.
