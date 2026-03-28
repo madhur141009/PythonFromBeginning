@@ -1,0 +1,7 @@
+In our day-to-day life, we repeat tasks. For example, we repeat paying electricity bill every month, etc.
+
+This kind of iteration is called repetition. Repetition of a sets of statements in a program is made possible using looping constructs.
+
+Types of loops-
+	1. for loop - It is used to iterate/repeat itself over a range of values or a sequence. It is executed for each of these items (numbers, successive chapters, elements like a string, list, or tuple, etc.) in the range. When all the items in the range are exhausted, the body of the loop is not executed anymore, the control is then transferred to the statement immediately followed the for loop. For more details refer its folder.
+	2. while loop - This loop executes a block of code repeatedly as long as the test/control condition of the loop is true. Firstly, the control condition is executed, if it is true then "while loop" is targetted and the body of the loop is executed, then again the control condition is tested and this cycle keeps on going till the test outcome is false. When it becomes false, the loop is not entered again and the control is transferred to the statement immediately following the body of the loop. For more details refer to its folder.

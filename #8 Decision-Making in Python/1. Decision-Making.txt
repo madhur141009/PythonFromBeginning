@@ -1,0 +1,8 @@
+Decision-Making-
+	The order of execution of the statements in a program is known as flow of control. Decision-Making Statements are used to control the flow of execution of a program depending upon the condition.
+	
+	Types of decision-making statements-
+		1. if statement - It simply states that "if" statement is true, Python performs the steps followed and does noting in case the condition is false. For more details refer its folder.
+		2. if-else statement - "if" statement alone tells that what if a condition is true, it will follow a block of statements. But we can use "else" statements to execute a block of statements "if" the condition is false. For more details refer its folder.
+		3. if-elif-else statement - "if-elif-else" statements are used in the situations where the user can decide among multiple options. As soon as one of the "if" statement is true, then the associated statement is executed and the rest of the ladder is bypassed. If none of the conditions is true, then the final "else" statement will be executed. For more details refer its folder.
+		4. Nested if-else statement - It allows you to check for multiple test expressions and execute different codes for more than two conditions. We can have many levels of nesting inside "if...else" statements. For more details refer its folder.
