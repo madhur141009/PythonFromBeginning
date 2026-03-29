@@ -8,6 +8,6 @@ Input() -
 	
 	If we want to take the data as int or float we need to evaluate it before performing any action, otherwise the data will be treated as string. Like, in "3.png".
 	
-	To take the data as int we need to write input() in int(), like int(input()). Similarly, for float is float() and string is str().
+	To take the data as int we need to write input() in int(), like int(input()). Similarly, for float is float().
 	
 	Ex - A simple integer addition calculator is made, refer "4.py".
