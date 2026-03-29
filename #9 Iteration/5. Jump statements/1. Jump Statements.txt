@@ -1,0 +1,7 @@
+Jump Statements - 
+	Looping allows a user to program and repeat tasks efficiently. In certain situations, when some particular condition occurs, a user may want to exit a loop or skip some statements in the loop.
+	
+	These requirements can be taken care by use of-
+		1. "break" Statement - Break statement terminates the current loop, i.e., the loop in which it appears, and resumes the execution at the next statement immediately after the end of the loop. If it used inside a nested loop, it will terminate the innermost loop. For more details refer its folder.
+		2. "continue" Statement - When continue statement is encountered, the control jumps to the beginning of the loop for next iteration, thus skippung the statements following the loop. As usual, the condition is checked to see if the loop should continue or not. If the condition is true, then again the loop is entered, else the control is transferred to the statement immediately following the loop. For more details refer its folder.
+		3. "pass" Statement - The pass statement is a null statement, nothing happens when it executes. The pass is useful in situations where your code will eventually go but has not written yet. Supppose, we have a loop which will be implemented in future, but we can't keep its body empty, because the compiler will complain. So, we use the pass statement to construct a body that does nothing. For more details refer its folder.

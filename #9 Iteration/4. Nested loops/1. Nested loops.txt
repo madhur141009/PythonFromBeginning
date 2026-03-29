@@ -1,0 +1,7 @@
+Nested loops-
+	Nested loops are basically making a loop inside a loop.
+	
+	Loops can be nested by-
+		1. While loop in a while loop - refer "Practical - 1.py"
+		2. For loop in a for loop - refer "Practical - 2.py"
+		3. For loop in a while loop and vice versa - Refer "Practical - 3.py" and "Practical - 4.py"
