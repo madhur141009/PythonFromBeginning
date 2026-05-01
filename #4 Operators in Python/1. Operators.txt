@@ -13,7 +13,7 @@ Operators -
 		
 			Ex - refer Python Terminal Screenshot
 	
-			Unary and Binary Operator - An operator can be termed as these depending upon the number of operands it takes.
+			Unary and Binary Operator - An operator can be termed, depending upon the number of operands it takes.
 				Ex :- In expression -10+15-5*4, the first minus sign is a uniary minus and second minus sign is a binary minus.
 	
 			Sequence for Arithmetic Operators - 
